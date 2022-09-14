@@ -2,6 +2,11 @@
   margin-top: 3em;
 }
 
+body {
+  background: rgb(247,247,255);
+background: linear-gradient(22deg, rgba(247,247,255,1) 0%, rgba(238,238,253,1) 35%, rgba(239,253,255,1) 100%);
+}
+
 .display-6{
   color: grey;
 }
